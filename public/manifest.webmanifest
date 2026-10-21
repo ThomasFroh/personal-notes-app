@@ -1,0 +1,17 @@
+{
+  "name": "Notes",
+  "short_name": "Notes",
+  "description": "Fast capture for personal and work notes.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f3eee4",
+  "theme_color": "#f3eee4",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
